@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Sergio Junior!
 
-<!--
-**pereisergio/pereisergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Data Scientist focado na construção e deploy de soluções de Machine Learning e Deep Learning.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente na Capgemini
+- 📍 Blumenau - SC, Brasil
+- 💼 [LinkedIn](https://www.linkedin.com/in/%20sergio-luiz-pereira-junior)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+
+- [becomex-agro-bi](https://github.com/pereisergio/becomex-agro-bi): Solução automatizada para extração, tratamento e integração de dados do IBGE para análises de BI no setor agroindustrial.
+- [windows-credential-manager](https://github.com/pereisergio/windows-credential-manager): Gerencie e acesse facilmente credenciais do Gerenciador de Credenciais do Windows usando Python.
+- [hexagonal-architecture](https://github.com/pereisergio/hexagonal-architecture): Estudo prático de arquitetura hexagonal em Python com exemplos interativos de polimorfismo e DIP.
+- [bar-code-reader](https://github.com/pereisergio/bar-code-reader): Leitor de Código de Barras e QR Code com interface gráfica.
+
+## 🛠️ Tecnologias
+
+Python, Jupyter Notebook, Machine Learning, Deep Learning, BI, Data Science
