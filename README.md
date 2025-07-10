@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Sergio Junior!
+# Olá, eu sou o Sergio Junior!
 
 Sou Data Scientist focado na construção e deploy de soluções de Machine Learning e Deep Learning.
 
