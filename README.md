@@ -15,4 +15,4 @@ Sou Data Scientist focado na construção e deploy de soluções de Machine Lear
 
 ## 🛠️ Tecnologias
 
-Python, Jupyter Notebook, Machine Learning, Deep Learning, BI, Data Science
+Python, .NET, Jupyter Notebook, Machine Learning, Deep Learning, BI, Data Science
