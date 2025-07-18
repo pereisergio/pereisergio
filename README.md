@@ -4,7 +4,7 @@ Sou Data Scientist focado na construção e deploy de soluções de Machine Lear
 
 - 🌱 Atualmente na Capgemini
 - 📍 Blumenau - SC, Brasil
-- 💼 [LinkedIn](https://www.linkedin.com/in/%20sergio-luiz-pereira-junior)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pereisergio/)
 
 ## 🚀 Projetos em destaque
 
